@@ -4,12 +4,13 @@
 </p>
 
 <p align="center">
-<b> VLR.GG AD Remover</b>
+<b>VLR.GG AD Remover</b>
 </p> 
-
-## Idea
 You can use any script run extension in your browser, I recommend using TamperMonkey. It's easy to set it up, just download the js file here and upload to the extension. Then you're done. Update VLR.GG page and ads will be gone.
 
-## Show your support
+##
+<p align="center">
+<b>Show your Support</b>
+</p>
 
-Give a ⭐️ if you like this project!
+<p align="center">Give a ⭐️ if you like this project!</p>

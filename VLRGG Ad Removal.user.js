@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  ad removal for vlr.gg
 // @author       github.com/tomazmpp
-// @match        https://www.vlr.gg
+// @match        https://www.vlr.gg/*
 // @icon         https://avatars.githubusercontent.com/u/94735704?v=4
 // @grant        none
 // ==/UserScript==

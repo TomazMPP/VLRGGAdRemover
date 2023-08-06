@@ -4,7 +4,7 @@
 <p align="center">
 <b>VLR.GG AD Remover</b>
 </p> 
-You can use any script run extension in your browser, I recommend using TamperMonkey. It's easy to set it up, just download the js file here and upload to the extension. Then you're done. Update VLR.GG page and ads will be gone.
+You can use any browser extension to run this script, and I highly recommend using TamperMonkey for this purpose. Setting it up is a breeze; simply download the JavaScript file from here and upload it to the extension. Once that's done, you're good to go! Update the VLR.GG page, and the pesky ads will be gone.
 
 ##
 <p align="center">
